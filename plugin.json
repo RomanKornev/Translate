@@ -1,0 +1,12 @@
+{
+    "ID":"1b7c732781f94b748ed08351f8200894",
+    "ActionKeyword":"tr",
+    "Name":"Direct Translate",
+    "Description":"Translate between english and any other language (RU by default)",
+    "Author":"RomanKornev",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/RomanKornev/Translate",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
