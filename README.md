@@ -17,5 +17,5 @@ pip install textblob
 ```
 To install the plugin, type in Wox:
 ```
-wpm install DirectTranslate
+wpm install Direct Translate
 ```
