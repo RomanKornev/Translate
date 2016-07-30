@@ -17,7 +17,7 @@ def translate(query):
             "SubTitle": query,
             "IcoPath":"Images/app.png",
             "JsonRPCAction":{'method': 'openUrl',
-                             'parameters': ['http://www.google.com/#{}/{}/{}'.format(from_lang, to_lang, query)],
+                             'parameters': [r'http://translate.google.com/#{}/{}/{}'.format(from_lang, to_lang, query)],
                              'dontHideAfterAction': False}
         })
     if not results:
